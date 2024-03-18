@@ -1,0 +1,10 @@
+name: EPP
+version: '${version}'
+main: org.example.ExamplePaperPlugin
+api-version: '1.20'
+
+#регистрация команд
+commands:
+  examplecommand:
+    # указывается по желанию
+    #permission:
